@@ -2,6 +2,8 @@
 
 fork后部署于vercel: [https://meting-api-omega.vercel.app/test](https://meting-api-kappa-rust.vercel.app/)
 
+**注意: 若歌单内包含 vip 歌曲则会导致 500 报错**
+
 ## Feature
 
 - js实现
