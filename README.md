@@ -1,6 +1,6 @@
 # Meting-API
 
-[https://meting-api-omega.vercel.app/test](https://meting-api-kappa-rust.vercel.app/)
+fork后部署于vercel: [https://meting-api-omega.vercel.app/test](https://meting-api-kappa-rust.vercel.app/)
 
 ## Feature
 
